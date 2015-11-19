@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Source Code Pro:pixelsize=13:antialias=true:autohint=true";
+static char font[] = "Source Code Pro:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 static int histsize = 2000;
 
@@ -105,7 +105,7 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor
  */
-static unsigned int defaultfg = 257;
+static unsigned int defaultfg = 10;
 static unsigned int defaultbg = 256;
 static unsigned int defaultcs = 258;
 
